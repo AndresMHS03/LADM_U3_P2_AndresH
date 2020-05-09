@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "393720143290",
+    "firebase_url": "https://ejercicio7firebase-3f2e9.firebaseio.com",
+    "project_id": "ejercicio7firebase-3f2e9",
+    "storage_bucket": "ejercicio7firebase-3f2e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393720143290:android:9cff94b08ff99083b45183",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_ejercicio7_firebasefirestore_andresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393720143290-g5prj23mobi2hut6g5oblhcensnnka2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPy0amy6csJY53X7J7035hmndpIvflIdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393720143290-g5prj23mobi2hut6g5oblhcensnnka2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393720143290:android:560a5301748586ccb45183",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_ejercicio8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393720143290-g5prj23mobi2hut6g5oblhcensnnka2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPy0amy6csJY53X7J7035hmndpIvflIdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393720143290-g5prj23mobi2hut6g5oblhcensnnka2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393720143290:android:bdc8ea649d2b3779b45183",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_p2_andresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393720143290-g5prj23mobi2hut6g5oblhcensnnka2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPy0amy6csJY53X7J7035hmndpIvflIdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393720143290-g5prj23mobi2hut6g5oblhcensnnka2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
